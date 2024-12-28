@@ -1,6 +1,7 @@
 ---
 title: 第一个全职工作录取 | First full-time job offer
 tags: career CN
+comments: true
 ---
 
 上周一我收到了第一个全职的工作offer。这之前的一周手上有三个面试，在面之前对这个三个offer有一个个人喜好的排序（说得好像我能挑一样，但是why not?)，正好是这个排第一的给我了offer。所以考虑了一天之后，愉快地接下来了。   
@@ -68,6 +69,28 @@ Other Part-time Jobs
 ## 结语
 俗话说烦恼分两种，没工作的烦恼和有工作的烦恼，而我马上要跳到后者去了（这篇就是在不想填签证申请表的时候敲的）。但是就像我现在的同事说的，虽然还有很多事要做，但是不要忘了庆祝！其实还没有想好什么时候庆祝，但是先谢谢一下没有放弃的自己吧，也谢谢自己用合适的方法保护了自己，没有在这个过程中把自己的性格和要求都磨掉。
 
-顺便还有，虽然这个记录非常我流，可能也没有什么经验可以提取。但是如果你想找我review/写申请材料/练习interview的话，可以在[留言板](https://docs.google.com/forms/d/e/1FAIpQLScjQA0zzFI5GUwZfkKUIvwr-btOxZpcDc46vIsuZANtov3oAw/viewform)这里联系我。我主要做社科申请，价格可以我们单独谈。
+顺便还有，虽然这个记录非常我流，可能也没有什么经验可以提取。但是如果你想找我review/写申请材料/练习interview的话，你可以在评论区留言，或者在[留言板](https://docs.google.com/forms/d/e/1FAIpQLScjQA0zzFI5GUwZfkKUIvwr-btOxZpcDc46vIsuZANtov3oAw/viewform)这里联系我。我主要做社科申请，价格可以我们单独谈。
 
 希望大家都找工作顺利，独立生活，珍惜自由。:)
+
+© allezeitderwelt
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-allezeitderwelt-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
