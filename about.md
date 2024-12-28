@@ -13,9 +13,9 @@ surviving my late 20s.
 #### about this blog
 Here I will write anything in all the languages I know. I also tend to mix languages up with no intention to flex but only because this is how my brain is wired now.
 
-I named this place *alle zeit der welt* (all the time of the world) because I was watching [Druck](https://www.zdf.de/funk/druck-11790) season 3, and when Matteo told David (his boyfriend) that he's there for him and because of that David can have all the time of the world, I think it's probably the most romantic thing I've heard from a drama. 
+I named this place *alle zeit der welt* (all the time of the world) because I was watching [Druck](https://www.zdf.de/funk/druck-11790) season 3, and when Matteo told David that he's there for him and because of that David can have all the time of the world, I think it might have summarised love in a most striking way that I've seen.
 
-And I wish I can create something as beautiful as that. 🌸
+And I wish here I can create something as beautiful as that. 🌸
 
 
 #### language
