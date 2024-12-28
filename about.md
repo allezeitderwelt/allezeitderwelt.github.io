@@ -5,8 +5,8 @@ key: page-about
 ---
 
 #### about author
-居住在德国，在大学工作，研究媒体科学/社会科学。想用写作重新把生活拼起来。
-she/her.
+居住在德国，在大学工作，研究媒体科学/社会科学。想用写作重新把生活拼起来。  
+she/her.  
 surviving my late 20s.
 
 #### about this blog
@@ -18,8 +18,8 @@ And I wish I can create something as beautiful as that. 🌸
 
 
 #### language
-CN: 中文是母语
-EN: After learning English for over a decade I think I'm somewhat comfort in it now.
+CN: 中文是母语  
+EN: After learning English for over a decade I think I'm somewhat comfort in it now.  
 DE: Und ich lerne Deutsch noch.
 
 I tried translating my chinese writing to english using google web translate and it's actually not bad. ;)
