@@ -12,7 +12,7 @@ For now, I think what I am constantly fighting for is my freedom. The ability to
 
 Consequent to the lyric mentioned above, I recalled that there is a famous quote in the Norwegian orginal show "Skam", a note that was put on a character's bedroom door, saying that *"everyone you meet is fighting a battle you know nothing about. be kind. always."* And it hit me as I realized how powerful this question is and how essential it is for me to know the battle that my cared ones are fighting. So you, the ones that were invited or just stumbled on this site, are welcomed to leave a message in the comment section and tell me, what are you fighting for?
 
-p.s., you can leave your comment without logging in, just click on the name block and there will be an option for you to leave comment as guest. :)
+p.s., you can leave your comment without logging in, just click on the "name" block and there will be an option for you to leave comments as guest. :)
 
 I wish you win your important battles. 
 
