@@ -1,6 +1,7 @@
 ---
 title: 两年的德语学习总结 | Zusammenfassung des zweijährigen Deutschunterrichts
 tags: language CN
+comments: true
 ---
 
 如果从第一节在苏黎世的德语课算起，到今年二月份我正好学满了两年德语。这两年我一直生活在德语区，主要的生活过的城市有苏黎世和不来梅。虽然学习和生活语言是英语，但是出于兴趣还有生活必需，我一直在不间断地在课外时间上语言课，到今年二月考出了一份德语B2的证书。在这篇笔记里我想记录一下我这两年里和这门语言缠斗的过程，想法，还有一些非常个人的经验。
@@ -62,4 +63,22 @@ tags: language CN
 
 ---
 © allezeitderwelt
-<div id="gitalk-container"></div>
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-allezeitderwelt-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
