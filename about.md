@@ -3,6 +3,7 @@ layout: article
 titles: about
 key: page-about
 ---
+welcome to my blog <3
 
 #### about author
 居住在德国，在大学工作，研究媒体科学/社会科学。想用写作重新把生活拼起来。  
