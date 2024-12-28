@@ -1,6 +1,6 @@
 ---
 title: 第一个全职工作录取 | First full-time job offer
-tag: career
+tags: career
 ---
 
 上周一我收到了第一个全职的工作offer。这之前的一周手上有三个面试，在面之前对这个三个offer有一个个人喜好的排序（说得好像我能挑一样，但是why not?)，正好是这个排第一的给我了offer。所以考虑了一天之后，愉快地接下来了。    
