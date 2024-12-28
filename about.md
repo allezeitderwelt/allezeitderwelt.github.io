@@ -2,7 +2,7 @@
 layout: article
 titles: about
 key: page-about
-comments: false
+comments: true
 ---
 welcome to my blog <3
 
