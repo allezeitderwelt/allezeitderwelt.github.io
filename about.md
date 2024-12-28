@@ -15,7 +15,7 @@ Here I will write anything in all the languages I know. I also tend to mix langu
 
 I named this place *alle zeit der welt* (all the time of the world) because I was watching [Druck](https://www.zdf.de/funk/druck-11790) season 3, and when Matteo told David that he's there for him and because of that David can have all the time of the world, I think it might have summarised love in a most striking way that I've seen.
 
-And I wish here I can create something as beautiful as that. 🌸
+And I wish here I can create something as beautiful as that. 🌼
 
 
 #### language
@@ -26,7 +26,7 @@ DE: Und ich lerne Deutsch noch.
 I tried translating my chinese writing to english using google web translate and it's actually not bad. ;)
 
 #### what do I like
-- 看闲书
+- [看闲书](https://www.goodreads.com/user/show/139395325-allezeit)
 - [看电影，听音乐](https://rateyourmusic.com/~hellomilibyemili)，看现场演出
 - 做手工（主要是羊毛毡，还想学钩针和织毛线）
 - 瑜伽
