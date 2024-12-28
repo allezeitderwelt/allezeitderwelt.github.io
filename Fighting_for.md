@@ -9,7 +9,9 @@ This idea came to me when I was listening to [Hyukoh's new album](https://open.s
 
 For now, I think what I am constantly fighting for is my freedom. The ability to live independently, to be free from coercions of any kind (especially authoritarianism), to speak the words that I believe (and this blog might be the true start of it).
 
-Consequent to the lyric mentioned above, I recalled that there is a famous quote in the Norwegian orginal show "Skam", a note that was put on a character's bedroom door, saying that *"everyone you meet is fighting a battle you know nothing about. be kind. always."* And it hit me as I realized how powerful this question is and how essential it is for me to know the battle that my cared ones are fighting. So you, the ones that were invited or just stumbled on this site, are welcomed to leave a message in the comment section and tell me, what are you fighting for?
+Consequent to the lyric mentioned above, I recalled that there is a famous quote in the Norwegian orginal show "Skam", a note that was put on a character's bedroom door, saying that *"everyone you meet is fighting a battle you know nothing about. be kind. always."* And it hit me as I realized how powerful this question is and how important it is for me to know the battle that my cared ones are fighting. So you, the ones that were invited or just stumbled on this site, are welcomed to leave a message in the comment section and tell me, what are you fighting for/against? 
+
+You are free to comment in the language that you feel comfortable in.
 
 p.s., you can leave your comment without logging in, just click on the "name" block and there will be an option for you to leave comments as guest. :)
 
