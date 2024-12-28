@@ -3,7 +3,6 @@ layout: article
 titles: about
 key: page-about
 comments: true
-tags: questionnaire EN
 ---
 
 This idea came to me when I was listening to [Hyukoh's new album](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w). As I heard Oh Hyuk singing *"tell me what you're fighting for"* over and over again in the song "kite war", I also started to ask myself this exact question: what am I fighting for? There must be a consistant reason, a will that resides in me before I even realize, an urge that pushes me to persue this life that I am living now.
