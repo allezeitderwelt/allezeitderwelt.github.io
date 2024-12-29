@@ -51,7 +51,7 @@ header:
       # @end locale config
     url: /about.html
 
-    - titles:
+  - titles:
       # @start locale config
       en      : &EN       Friends
       en-GB   : *EN
@@ -62,18 +62,18 @@ header:
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  
+      zh-Hant : &ZH_HANT  友邻
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       
+      ko      : &KO       Friends
       ko-KR   : *KO
-      fr      : &FR       
+      fr      : &FR       Friends
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      tr      : &TR       
+      tr      : &TR       Friends
       # @end locale config
     url: /friends.html
 
