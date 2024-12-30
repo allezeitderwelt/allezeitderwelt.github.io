@@ -1,5 +1,7 @@
 ---
+layout: article
 titles: friends
+key: page-about
 comments: true
 ---
 
