@@ -1,1 +1,6 @@
-吉屋出租～
+---
+titles: friends
+comments: true
+---
+
+欢迎留言和我交换链接～
