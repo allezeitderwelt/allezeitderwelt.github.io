@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       archive
+      en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -27,7 +27,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       about
+      en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
