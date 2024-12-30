@@ -1,6 +1,6 @@
 ---
 layout: article
-title: about
+titles: about
 key: page-about
 comments: true
 ---
