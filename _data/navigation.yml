@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -15,7 +15,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
       ko-KR   : *KO
-      fr      : &FR       Archives
+      fr      : &FR       archives
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -27,7 +27,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       about
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -53,7 +53,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Friends
+      en      : &EN       blogroll
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -65,41 +65,41 @@ header:
       zh-Hant : &ZH_HANT  友邻
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       Friends
+      ko      : &KO       blogroll
       ko-KR   : *KO
-      fr      : &FR       Friends
+      fr      : &FR       blogroll
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      tr      : &TR       Friends
+      tr      : &TR       blogroll
       # @end locale config
     url: /friends.html
 
   - titles:
       # @start locale config
-      en      : &EN       Fighting for
+      en      : &EN       fighting for
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  Fighting for
+      zh-Hans : &ZH_HANS  fighting for
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  Fighting for
+      zh-Hant : &ZH_HANT  fighting for
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       Fighting for
+      ko      : &KO       fighting for
       ko-KR   : *KO
-      fr      : &FR       Fighting for
+      fr      : &FR       fighting for
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      tr      : &TR       Fighting for
+      tr      : &TR       fighting for
       # @end locale config
     url: /Fighting_for.html
     
