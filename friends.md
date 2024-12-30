@@ -1,5 +1,5 @@
 ---
-titles: friends
+title: friends
 comments: true
 ---
 
