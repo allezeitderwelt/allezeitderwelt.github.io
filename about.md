@@ -18,6 +18,8 @@ I named this place *alle zeit der welt* (all the time of the world) because I wa
 
 And I wish here I can create something as beautiful as that. 🌼
 
+> You can subscribe to the content update with this [RSS feed link](https://allezeitderwelt.github.io/feed.xml).
+> 你可以通过[RSS Feed](https://allezeitderwelt.github.io/feed.xml)订阅我的更新。
 
 #### language
 CN: 中文是母语  
