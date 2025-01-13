@@ -5,7 +5,8 @@ key: page-about
 comments: true
 ---
 
-some ideas that I might write in the future.
+灵感存储地！
+希望2025能写10篇。（1/10）
 
 - Why Druck is by far the best remake of Skam (at least better than the French one)
   - or, a self-reflection of what love is about
