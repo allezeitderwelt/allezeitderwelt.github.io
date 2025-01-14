@@ -19,7 +19,7 @@ Not saying that davenzi story is just straight-up perfect, honestly, I also don'
 
 Now it's the point that I remind myself that this is a davenzi fanfics appreciation post because out of the around 20~30 works I've read on ao3, the proportion of amazing works is just crazily high. I truly felt grateful for these amazing writers for creating these beautiful stories, some of which even transcend the original stories and bring the characters to the fullest. I cannot imagine a better audience experience when you fell for a slash in a fictional work and there are these amazing people that have extended the life-course of them and make the relationship even more beautiful.
 
-Up until now my fav works are these. I usually skip the ones when I find out that they don't have much originality in it and basically just remake the existing Druck plots with minor changes or change of background settings. But it's just a 
+Up until now my fav works are these. I usually skip the ones when I find out that they don't have much originality in it and basically just remake the existing Druck plots with minor changes or change of background settings. But it's just a personal taste thing, i appreciate everyone that has contributed to the fandom world.
 
 [mad as the sea and wind](https://archiveofourown.org/works/18507484/chapters/43859389)
 It's Hamlet, it's Matteo cast as Ophelia, it's got amazing writing... It's the best thing I've read last year, really.
