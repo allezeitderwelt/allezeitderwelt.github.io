@@ -21,19 +21,19 @@ Now it's the point that I remind myself that this is a davenzi fanfics appreciat
 
 Up until now my fav works are these. I usually skip the ones when I find out that they don't have much originality in it and basically just remake the existing Druck plots with minor changes or change of background settings. But it's just a personal taste thing, i appreciate everyone that has contributed to the fandom world.
 
-[mad as the sea and wind](https://archiveofourown.org/works/18507484/chapters/43859389)
+- [mad as the sea and wind](https://archiveofourown.org/works/18507484/chapters/43859389)  
 It's Hamlet, it's Matteo cast as Ophelia, it's got amazing writing... It's the best thing I've read last year, really.
 
-[Blister in the sun](https://archiveofourown.org/works/19721065/chapters/46673353)
+- [Blister in the sun](https://archiveofourown.org/works/19721065/chapters/46673353)   
 summer love!!
 
-[dusk](https://archiveofourown.org/works/22165738/chapters/52913929)
+- [dusk](https://archiveofourown.org/works/22165738/chapters/52913929)  
 Twilight (not kidding) but it's just... great... and better than original twilight story... (still not kidding)
 
-EVERYTHING [bruisingknees](https://archiveofourown.org/users/bruisingknees/pseuds/bruisingknees) ever wrote
+- EVERYTHING [bruisingknees](https://archiveofourown.org/users/bruisingknees/pseuds/bruisingknees) ever wrote  
 she is genius aaaaah 
 
-[The Elven Boy with Rounded Ears](https://archiveofourown.org/works/20655197/chapters/49050956)
+- [The Elven Boy with Rounded Ears](https://archiveofourown.org/works/20655197/chapters/49050956)  
 davenzi in fantasy world can i ask for more.
 
 Oh my goodness like, I never thought english can be this beautiful (even though ironically, I watched Druck because i wanted to practice german jdbnakehjfiowp). Considering the most stuffs I read in English is academic papers and beaurocratic things, I almost forgot that I can actually feel the beauty and emotions in this language. I am so, so happy that I can get to read these works and have stepped out of my comfy zone (i usually directly filter the chinese works out in ao3 tags and crawl back to my first language brain but you know what happened). fanfics are my escaping place and davenzi is by far the most beautiful corner of it. (sobbing)
