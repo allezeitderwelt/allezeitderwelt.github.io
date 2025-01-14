@@ -7,6 +7,7 @@ comments: true
 You really don't need to read this but you really need to read [*mad as the sea and wind*](https://archiveofourown.org/works/18507484/chapters/43859389).
 
 <!--more-->
+---
 
 I wrote this in English in the end because the davenzi (David / Matteo) fanfics that I've read are all in english (there is no single, one, chinese, both traditional and simplied, davenzi fanfic in ao3 ~~because the chinese skam fandoms are so transphobe and focus on traditional attractive male characters but i really don't want to talk about this in here~~ so there is nothing i can do haha). You really don't need to read this if you don't know what davenzi is and also this is basically me losing my composure for reading fanfics (fanfics! they are great but, fanfics!!) that are not even written in my first language. There will be a lot of emotional writings and some abrupt self-revelation / -reflection and I can't believe I haven't stopped myself from writing it, I am so sorry.
 
