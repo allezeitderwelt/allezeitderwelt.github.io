@@ -18,4 +18,4 @@ i don't really ask these questions before this. i tended to accept things, knowi
 
 why is this world doing this to me. and her. 
 
-i also hate myself for being so pretentious and in fact still being able to put this together as a post. But I also don't know without writing this how i come to peace with myself and how can i grieve her. I'm so sorry racheal i hope you didn't go through terrible pain, i love you so much and i miss you so much and i'm so so so sorry.
+i also hate myself for being so pretentious and in fact still being able to put this together as a post. But I also don't know without writing this how i come to peace with myself and whatelse can i do to grieve her. I'm so sorry racheal i hope you didn't go through terrible pain, i love you so much and i miss you so much and i'm so so so sorry.
