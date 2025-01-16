@@ -17,3 +17,5 @@ so to leave one unendurable place leads me to another even more unendurable posi
 i don't really ask these questions before this. i tended to accept things, knowing better than to be angry and on top of my head to make things more chaotic. but rachael died how can anything be worse right now. if i travelled this far to pursue some so-called freedom and peace then why do i have so little control on everything, why does this have to happen and why i find myself in this helpless position.
 
 why is this world doing this to me. and her. 
+
+i also hate myself for being so pretentious and in fact still being able to put this together as a post. But I also don't know without writing this how i come to peace with myself and how can i grieve her. I'm so sorry racheal i hope you didn't go through terrible pain, i love you so much and i miss you so much and i'm so so so sorry.
