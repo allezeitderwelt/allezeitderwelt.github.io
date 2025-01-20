@@ -45,6 +45,7 @@ I tried translating my chinese writing to english using google web translate and
 
 #### things i tell myself
 - 去了总比不去好（治疗了很多次我打退堂鼓发作，而且经常去了之后发现确实是这样的，拥有一些经历本身就已经胜过很多，勇气和take action是一种美德）
+- somedays this will all be funny.
 
 ---
 © allezeitderwelt
