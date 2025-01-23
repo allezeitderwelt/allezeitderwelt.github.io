@@ -27,7 +27,8 @@ comments: true
 
 ---
 © allezeitderwelt
-还有，我很想念你瑞秋，我爱你。
+
+我很想念你瑞秋，我爱你。
 
 <div id="disqus_thread"></div>
 <script>
