@@ -1,5 +1,5 @@
 ---
-title: 妈妈的孩子，女人的孩子 | Born as a women, born by a woman, raised by women
+title: 妈妈的孩子，女人的孩子 | Born as a woman, born by a woman, raised by women
 tags: 爱的教育 CN
 comments: true
 ---
