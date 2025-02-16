@@ -8,6 +8,7 @@ welcome to my blog <3
 
 #### about author
 居住在德国，在大学工作，研究媒体科学/社会科学。想用写作重新把生活拼起来。  
+但其实没有文化，只想玩转地球！
 she/her.  
 surviving my late 20s.
 
@@ -37,6 +38,7 @@ I tried translating my chinese writing to english using google web translate and
 - 现代舞
 - 攀岩
 - 学习语言
+- 搞同人！
 
 #### quotes that I like
 - "Ich bin da und deswegen hast du *alle Zeit der Welt*." (Druck S3E9)
