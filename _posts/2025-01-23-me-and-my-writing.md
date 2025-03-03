@@ -1,6 +1,6 @@
 ---
 title: 我和我的写作 | Me and my writing
-tags: 爱的教育 CN
+tags: 我是来玩的 CN
 comments: true
 ---
 也不是一拍脑门想到要写博客的。
