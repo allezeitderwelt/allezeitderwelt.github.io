@@ -54,8 +54,11 @@ kind。这次约出来的对象是我刷了几天dating app之后唯一一个感
 
 最后就放一段最近怀旧听的《明天你好》的歌词送给哭了很多次，笑了很多次，目前还没有放弃寻找爱的自己 <3：
 
-> 长大以后 我只能奔跑 我多害怕 黑暗中跌倒  
-> 每一次哭 都笑着奔跑 一边失去 一边在寻找
+> 长大以后 我只能奔跑 我多害怕 黑暗中跌倒
+> 明天你好 含着泪微笑 越美好 越害怕得到
+> 每一次哭 又笑着奔跑 一边失去 一边在寻找
+> 明天你好 声音多渺小 却提醒我 勇敢是什么
+
 
 ---
 © allezeitderwelt
@@ -83,4 +86,3 @@ kind。这次约出来的对象是我刷了几天dating app之后唯一一个感
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-在我的late 20s，轻松一点去对外打开，遇见更多的人，在人际关系中更多认识自己，今后会有更多答案的吧。
