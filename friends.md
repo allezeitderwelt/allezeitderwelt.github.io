@@ -12,4 +12,4 @@ comments: true
 - [旋转木马鏖战记](https://samsmerrygoround.github.io)
 - [第三夏尔](https://thirdshire.com/)
 - [无竹斋](https://bamboobone9.com/)
-- [光明岛](https://mokuyo.xyz/posts/)
+- [光明岛](https://mokuyo.xyz)
