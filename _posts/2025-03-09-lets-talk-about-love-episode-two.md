@@ -3,6 +3,7 @@ title: 谈了三年恋爱总算有资格谈谈爱了吧（二）
 tags: 爱的教育 CN
 comments: true
 ---
+It takes strength to know what is right, and love isn't something weak people do.   
 以及记录一下非常开心的妇女节。
 
 <!--more-->
