@@ -102,29 +102,3 @@ header:
       tr      : &TR       fighting for
       # @end locale config
     url: /Fighting_for.html
-    
-  - titles:
-      # @start locale config
-      en      : &EN       ideas
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  ideas
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  ideas
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       ideas
-      ko-KR   : *KO
-      fr      : &FR       ideas
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       ideas
-      # @end locale config
-    url: /ideas.html
