@@ -13,3 +13,7 @@ comments: true
 - [第三夏尔](https://thirdshire.com/)
 - [无竹斋](https://bamboobone9.com/)
 - [光明岛](https://mokuyo.xyz)
+
+我喜欢的论坛/空间 <3 ：
+- [她乡 | Women Overseas](https://forum.womenoverseas.com/)
+- [结绳志 | Tying Knots](https://tyingknots.net/)
