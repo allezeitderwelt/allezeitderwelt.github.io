@@ -15,5 +15,5 @@ comments: true
 - [光明岛](https://mokuyo.xyz)
 
 我喜欢的论坛/空间 <3 ：
-- [她乡 | Women Overseas](https://forum.womenoverseas.com/)
-- [结绳志 | Tying Knots](https://tyingknots.net/)
+- [她乡 Women Overseas](https://forum.womenoverseas.com/)
+- [结绳志 Tying Knots](https://tyingknots.net/)
