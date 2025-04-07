@@ -63,7 +63,7 @@ kind。这次约出来的对象是我刷了几天dating app之后唯一一个感
 
 ---
 © allezeitderwelt
-
+摘要里的英文来自Fleabag S2E6。
 
 什么时候能再在生命里见到瑞秋。  
 
