@@ -9,8 +9,8 @@ comments: true
 
 时间顺序是倒叙。
 
-### 17.04.2025 5 points
-- 看完了Adolescence
+### 2025年4月27日 | 星期天 | 5 points
+- 看完了网飞的混沌少年时（Adolescence）
 - 又听完一次Ichiko Aoba的伦敦live专辑，找到了几场她之前的live演出，非常美丽的氛围。
     - [青葉市子 现场合集](https://www.bilibili.com/video/BV1HR4y197RQ/?spm_id_from=333.337.search-card.all.click&vd_source=5376fcd2083db112fb126ef9a0e7e237)
     - [【中日字幕】坂本龙一×青叶市子『３びきのくま』](https://www.bilibili.com/video/BV1Fy41187Ds/?spm_id_from=333.337.search-card.all.click&vd_source=5376fcd2083db112fb126ef9a0e7e237)
