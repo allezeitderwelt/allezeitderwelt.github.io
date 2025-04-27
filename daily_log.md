@@ -9,6 +9,8 @@ comments: true
 
 时间顺序是倒叙。
 
+---
+
 ### 2025年4月27日 | 星期天 | 5 points
 - 看完了网飞的混沌少年时（Adolescence）
 - 又听完一次Ichiko Aoba的伦敦live专辑，找到了几场她之前的live演出，非常美丽的氛围。
@@ -17,4 +19,8 @@ comments: true
 - 洗了衣服
 - 玩了一会儿电子琴，多学了几个基础章节，双手一起弹还是有点费劲。
 - 出去散了步。
+
+---
+© allezeitderwelt    
+
 
