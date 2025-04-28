@@ -13,7 +13,7 @@ comments: true
 ### 2025年4月28日 | 星期一 | 2 points
 - **学语言**：过了50个德语单词，原来[Einzelheit](http://dwds.de/wb/Einzelheit?o=einzelheit)是detail的意思，然后学会了blinder Passagier是偷渡客的意思。
 - **学音乐**：学电子琴。这个[视频](https://youtu.be/p00zsi71t6I?si=zgjcCUn4CMbbcRqi)给的建议还挺实用的。我的目标是能sight read曲谱，然后弹一些想弹的曲子，比如《圣诞快乐劳伦斯先生》还有《红蜻蜓》（[大贯妙子](https://open.spotify.com/track/6cIA3tAZzUSaYreu9iHgOL?si=4f830a02814c48ed)唱的那个版本超美）。
-
+- - **影视**：看完一会儿网飞版的《三体》第一集，不是特别喜欢。
 ---
 
 ### 2025年4月27日 | 星期天 | 5 points
