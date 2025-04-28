@@ -10,6 +10,11 @@ comments: true
 时间顺序是倒叙。
 
 ---
+### 2025年4月28日 | 星期一 | 2 points
+- 过了50个德语单词，原来Einzelheit也可以有detail的意思，然后学会了blinder Passagier是偷渡客的意思。
+- 学电子琴。这个[视频](https://youtu.be/p00zsi71t6I?si=zgjcCUn4CMbbcRqi)给的建议还挺实用的。我的目标是能sight read曲谱，然后弹一些想弹的曲子，比如《圣诞快乐劳伦斯先生》还有《红蜻蜓》（大贯妙子唱的那个版本超美）。
+
+---
 
 ### 2025年4月27日 | 星期天 | 5 points
 - 看完了网飞的混沌少年时（Adolescence）
