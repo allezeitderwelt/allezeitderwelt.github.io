@@ -10,6 +10,11 @@ comments: true
 时间顺序是倒叙。
 
 ---
+### 2025年4月30日 | 星期三 | 2 points
+- **影视**：看《三体》第二集，感觉还是一般。。但是都到这里了，要不还是看完吧。
+- **人际交往**：big talk with my date...这怎么不算一种人际交往呢？
+
+---
 ### 2025年4月29日 | 星期二 | 3 points
 - **学语言**：过了50个德语单词
 - **身体活动**：从别的城市回来之后依然坚持去跳了现代舞！怎么也得算2个points吧！但今天学了一些简单的即兴，有个新来的女孩的手部动作特别美，跟着她mirroring的时候也感觉很美～果然还是去了比不去好啊。
@@ -18,7 +23,7 @@ comments: true
 ### 2025年4月28日 | 星期一 | 2 points
 - **学语言**：过了50个德语单词，原来[Einzelheit](http://dwds.de/wb/Einzelheit?o=einzelheit)是detail的意思，然后学会了blinder Passagier是偷渡客的意思。
 - **学音乐**：学电子琴。这个[视频](https://youtu.be/p00zsi71t6I?si=zgjcCUn4CMbbcRqi)给的建议还挺实用的。我的目标是能sight read曲谱，然后弹一些想弹的曲子，比如《圣诞快乐劳伦斯先生》还有《红蜻蜓》（[大贯妙子](https://open.spotify.com/track/6cIA3tAZzUSaYreu9iHgOL?si=4f830a02814c48ed)唱的那个版本超美）。
-- **影视**：看完一会儿网飞版的《三体》第一集，不是特别喜欢。
+- **影视**：看了一会儿网飞版的《三体》第一集，不是特别喜欢。
 
 ---
 
