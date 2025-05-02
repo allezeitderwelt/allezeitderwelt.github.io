@@ -2,7 +2,7 @@
 layout: article
 titles: about
 key: page-about
-comments: true
+comments: false
 ---
 欢迎来到我的赛博日记本 <3
 
