@@ -10,7 +10,7 @@ comments: falso
 时间顺序是倒叙。
 
 ---
-### 2025年5月1日 | 星期四（劳动节） | 4 points
+### 2025年5月1日 | 星期四（劳动节） | 5 points
 - **身体活动**：去附近徒步了两个小时左右，夏天的小镇真漂亮。
 - **日常**：洗了衣服。
 - **照顾自己**：来月经了，睡觉！
@@ -36,7 +36,7 @@ comments: falso
 ---
 
 ### 2025年4月27日 | 星期天 | 5 points
-- **影视**：看完了网飞的混沌少年时（Adolescence）
+- **影视**：看完了网飞的混沌少年时（Adolescence）。EP3是我这几年来看过最恐怖的东西。
 - **音乐**：又听完一次Ichiko Aoba的伦敦live专辑，找到了几场她之前的live演出，非常美丽的氛围。
     - [青葉市子 现场合集](https://www.bilibili.com/video/BV1HR4y197RQ/?spm_id_from=333.337.search-card.all.click&vd_source=5376fcd2083db112fb126ef9a0e7e237)
     - [【中日字幕】坂本龙一×青叶市子『３びきのくま』](https://www.bilibili.com/video/BV1Fy41187Ds/?spm_id_from=333.337.search-card.all.click&vd_source=5376fcd2083db112fb126ef9a0e7e237)
