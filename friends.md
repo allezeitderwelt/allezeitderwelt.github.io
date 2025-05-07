@@ -15,6 +15,7 @@ comments: true
 - [光明岛](https://mokuyo.xyz)
 - [列珂](https://write.c7.io/ilke/)
 - [萌荷里安](https://blogatlarge.com/c1air2/)
+- [邓布利多的冥想盆](https://pensieve.wangxindi.org/)
 
 我喜欢的论坛/空间 <3 ：
 - [她乡 Women Overseas](https://forum.womenoverseas.com/)
