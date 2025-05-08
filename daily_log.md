@@ -10,6 +10,11 @@ comments: falso
 时间顺序是倒叙。
 
 ---
+### 2025年5月8日 | 星期四 | 2 points
+- **学语言**：过德语单词，认真听一集NZZ Akzent。
+- **学音乐**：弹琴。学会Aura Lea。
+  
+---
 ### 2025年5月7日 | 星期三 | 3 points
 - **照顾自己**：把鸡肉和土豆给做了！
 - **音乐**：认真欣赏《[AAA Live](https://open.spotify.com/album/1kmMYuRIbaPilQUiyI040g?si=Nd-IumEdQcOAFy5gtezNDA)》。其实专辑本身不是很出彩，是咖啡馆会放的普通Indie pop。但是喜欢吴赫，喜欢歌词，也喜欢live演奏的器乐。
