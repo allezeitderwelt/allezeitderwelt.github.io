@@ -10,9 +10,10 @@ comments: falso
 时间顺序是倒叙。
 
 ---
-### 2025年5月7日 | 星期三 | 2 points
+### 2025年5月7日 | 星期三 | 3 points
 - **照顾自己**：把鸡肉和土豆给做了！
 - **音乐**：认真欣赏《[AAA Live](https://open.spotify.com/album/1kmMYuRIbaPilQUiyI040g?si=Nd-IumEdQcOAFy5gtezNDA)》。其实专辑本身不是很出彩，是咖啡馆会放的普通Indie pop。但是喜欢吴赫，喜欢歌词，也喜欢live演奏的器乐。
+- **学音乐**：继续弹琴。
 
 ---
 ### 2025年5月6日 | 星期二 | 2 points
