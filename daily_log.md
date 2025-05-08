@@ -10,8 +10,9 @@ comments: falso
 时间顺序是倒叙。
 
 ---
-### 2025年5月8日 | 星期四 | 2 points
+### 2025年5月8日 | 星期四 | 3 points
 - **学语言**：过德语单词，认真听一集NZZ Akzent。
+- **看书**：看完了《Empusium》第三章。
 - **学音乐**：弹琴。学会[Aura Lea](https://www.youtube.com/watch?v=Itb9vptY2ck)。
   
 ---
