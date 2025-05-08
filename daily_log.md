@@ -12,7 +12,7 @@ comments: falso
 ---
 ### 2025年5月8日 | 星期四 | 2 points
 - **学语言**：过德语单词，认真听一集NZZ Akzent。
-- **学音乐**：弹琴。学会Aura Lea。
+- **学音乐**：弹琴。学会[Aura Lea](https://www.youtube.com/watch?v=Itb9vptY2ck)。
   
 ---
 ### 2025年5月7日 | 星期三 | 3 points
