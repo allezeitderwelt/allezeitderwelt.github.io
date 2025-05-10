@@ -13,6 +13,7 @@ comments: falso
 ### 2025年5月10日 | 星期六 | 2 points
 - **看书**：看完了《Empusium》第四章。
 - **日常**：把所有的塑料瓶，玻璃瓶，纸板都处理了。喜提4欧元recycle收入。
+- **日常**：做了够吃三餐的饭！哦吼！
   
 ---
 ### 2025年5月9日 | 星期五 | 2 points
@@ -26,7 +27,7 @@ comments: falso
   
 ---
 ### 2025年5月7日 | 星期三 | 3 points
-- **照顾自己**：把鸡肉和土豆给做了！
+- **日常**：把鸡肉和土豆给做了！
 - **音乐**：认真欣赏《[AAA Live](https://open.spotify.com/album/1kmMYuRIbaPilQUiyI040g?si=Nd-IumEdQcOAFy5gtezNDA)》。其实专辑本身不是很出彩，是咖啡馆会放的普通Indie pop。但是喜欢吴赫，喜欢歌词，也喜欢live演奏的器乐。
 - **学音乐**：继续弹琴。
 
