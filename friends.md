@@ -19,3 +19,4 @@ comments: true
 - [结绳志 Tying Knots](https://tyingknots.net/)：人类学的技艺，观点，与行动。
 - [葡萄田 vallennox ](https://vallennox.com/)：感动了我很多年的很多故事。我会定期打钱的作者。
 - [熱朱力新地](https://music.coms.asia/)：学习钢琴的建议和资源。
+- [政治学的邀约](https://finelin.notion.site/8f0e84b281894a9fb599e5ac8c511faf)：有趣的政治学研究导读。
