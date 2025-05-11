@@ -12,7 +12,6 @@ comments: true
 - [旋转木马鏖战记](https://samsmerrygoround.github.io)
 - [第三夏尔](https://thirdshire.com/)
 - [无竹斋](https://bamboobone9.com/)
-- [光明岛](https://mokuyo.xyz)
 - [列珂](https://write.c7.io/ilke/)
 - [萌荷里安](https://blogatlarge.com/c1air2/)
 - [邓布利多的冥想盆](https://pensieve.wangxindi.org/)
