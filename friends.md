@@ -21,3 +21,4 @@ comments: true
 - [熱朱力新地](https://music.coms.asia/)：学习钢琴的建议和资源。
 - [政治学的邀约](https://finelin.notion.site/8f0e84b281894a9fb599e5ac8c511faf)：有趣的政治学研究导读。
 - [沈於淵](https://matters.town/@zscliterary)：特别喜欢Diasporic Letters合集。
+- [小触手的书房](https://heiheihei.ca/): 水彩学习的课程和思考。感觉能学到很多东西！
