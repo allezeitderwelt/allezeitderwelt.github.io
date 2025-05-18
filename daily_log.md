@@ -12,7 +12,7 @@ comments: false
 ---
 ### 2025年5月17日 | 星期六 | 4 points
 - **日常**：采购和laundry。
-- **影视**：看了几集新的爱死机，好失望。之后就一直在youtube上乱逛，看了好多遍排练版的[晨光曲]((https://www.youtube.com/watch?v=fgFgcJdmH1Q&t=209s))，超级美。
+- **影视**：看了几集新的爱死机，好失望。之后就一直在youtube上乱逛，看了好多遍排练版的[晨光曲](https://www.youtube.com/watch?v=fgFgcJdmH1Q&t=209s)，超级美。
 - **德语**：乱七八糟听了一些播客，背了一下单词。
 - **人际交往**：和fx打了两个小时电话，喜欢，开心！
   
