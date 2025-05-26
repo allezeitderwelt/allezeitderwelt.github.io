@@ -9,6 +9,12 @@ comments: false
 
 时间顺序是倒叙。
 
+### 2025年5月24-15日 | 快乐周末！
+- 和朋友们去汉诺威看了巴西舞团的演出《[Zona Franca]([url](https://kunstfestspiele.de/programm/veranstaltungen.html#./programm/veranstaltungen/details/zona-franca.html))》，一种非常provocative，活力四射，以舞者身体为基础的自由舞蹈，从opening开始就很喜欢了！
+- 然后住在不来梅朋友们的家里。幸福地去吃了brunch然后爬了一小时墙。岩馆在一个废弃仓库区里，Nastia告诉我这里是被自由艺术家们占领了，被开发成一个城市里的嬉皮场所，四处散落着园艺，雕塑残片还有涂鸦，仓库也被改造成体育或者艺术活动空间。我太喜欢不来梅了。
+- 回来的火车上静静地读了四十多页Empusium。幸福啊！
+
+---
 ### 2025年5月23日 | 星期五 | 2 points
 - **日常**：采购和laundry。
 - **看书**：Empusium继续阅读ing。
