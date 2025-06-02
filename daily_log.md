@@ -9,6 +9,11 @@ comments: false
 
 时间顺序是倒叙。
 
+### 2025年6月1日 | 星期一 | 2 points
+- **身体活动**：简单练习了一下哑铃和俯卧撑
+- **看书**：看了一小章《Kummer aller Art》。超级喜欢这句话："die Flugangst der Passagiere hält das Flugzeug in der Luft."有时候恐惧也是一种超能力，是恐惧给了我们力量往前走。
+  
+---
 ### 2025年6月1日 | 星期日 | 4 points
 - **旅行**：和fx一起规划了将近四个小时的土耳其行程，头晕眼花。
 - **？**：补上上周欠下的一些工作。
