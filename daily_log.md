@@ -11,7 +11,7 @@ comments: false
 
 ### 2025年6月7日 | 星期六 | 3 points
 - **日常**：清洁，采购，还有做饭，去买了淡奶油和吉利丁，试着做了一些咖啡冻，希望能好吃。
-- **影视**：看了四集芙莉莲，还有电影《[Swimming Pool](https://mubi.com/en/de/films/swimming-pool)》
+- **影视**：看了四集芙莉莲，还有电影《[Swimming Pool](https://mubi.com/en/de/films/swimming-pool)》。
 - **人际交往**： 星期六待在一起看点东西好像已经是routine了，但是这次有很多谈话和眼泪。好迷茫。
   
 ---
