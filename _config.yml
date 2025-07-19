@@ -133,7 +133,7 @@ comments:
   #   owner       : allezeitderwelt
   #   admin: 
     # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-       - 193048558
+      # - 193048558
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
