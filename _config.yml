@@ -118,8 +118,12 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: waline # false (default), "disqus", "gitalk", "valine", "custom"
 
+  waline:
+    app_id      : pIa8hwjT4giq1PEFaT8hUocs-MdYXbMMI # LeanCloud App id
+    app_key     : KKKJ3cgp3TXWYpfkqlW1BmZO # LeanCloud App key
+  
   ## Disqus
   # disqus:
   #  shortname: 
