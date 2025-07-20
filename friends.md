@@ -22,3 +22,30 @@ comments: true
 - [政治学的邀约](https://finelin.notion.site/8f0e84b281894a9fb599e5ac8c511faf)：有趣的政治学研究导读。
 - [沈於淵](https://matters.town/@zscliterary)：特别喜欢Diasporic Letters合集。
 - [小触手的书房](https://heiheihei.ca/): 水彩学习的课程和思考。感觉能学到很多东西！
+
+---  
+
+<head>
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://walinetest-sage.vercel.app',
+      lang: 'en',
+      emoji: [
+      'https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',
+    ],
+      placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
+    });
+  </script>
+</body>
