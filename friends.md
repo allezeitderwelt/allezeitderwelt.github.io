@@ -45,7 +45,7 @@ const locale = {
   placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
 };
 
-    Waline.init({
+    init({
       el: '#waline',
       serverURL: 'https://walinetest-sage.vercel.app',
       lang: 'en',
