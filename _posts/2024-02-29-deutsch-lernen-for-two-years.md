@@ -1,7 +1,6 @@
 ---
 title: 两年的德语学习总结 | Zusammenfassung des zweijährigen Deutschunterrichts
 tags: language CN
-comments: true
 ---
 
 如果从第一节在苏黎世的德语课算起，到今年二月份我正好学满了两年德语。这两年我一直生活在德语区，主要的生活过的城市有苏黎世和不来梅。虽然学习和生活语言是英语，但是出于兴趣还有生活必需，我一直在不间断地在课外时间上语言课，到今年二月考出了一份德语B2的证书。在这篇笔记里我想记录一下我这两年里和这门语言缠斗的过程，想法，还有一些非常个人的经验。
@@ -63,3 +62,41 @@ comments: true
 
 ---
 © allezeitderwelt
+
+--- 
+
+<head>
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+      el: '#waline',
+      serverURL: 'https://walinetest-sage.vercel.app',
+      lang: 'en',
+      locale: { 
+  nick: 'Nickname',
+  mail: 'E-Mail (optional)',
+  link: 'Website (optional)',
+  placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
+  },
+      emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
+    });
+
+  </script>
+
+    <style>
+      :root {
+        /* 主题色 */
+        --waline-theme-color: #7a629d;
+        }
+    </style>
+</body>
