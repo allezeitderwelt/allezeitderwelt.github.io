@@ -38,17 +38,16 @@ comments: true
   <script type="module">
     import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
 
-const locale = {
+  init({
+      el: '#waline',
+      serverURL: 'https://walinetest-sage.vercel.app',
+      lang: 'en',
+      locale: { 
   nick: 'Nickname',
   mail: 'E-Mail (optional)',
   link: 'Website (optional)',
   placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
-};
-
- const waline = init({
-      el: '#waline',
-      serverURL: 'https://walinetest-sage.vercel.app',
-      lang: 'en',
+  },
       emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
     });
   </script>
