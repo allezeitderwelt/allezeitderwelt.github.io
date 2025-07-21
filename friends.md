@@ -45,13 +45,11 @@ const locale = {
   placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
 };
 
-    init({
+ const waline = init({
       el: '#waline',
       serverURL: 'https://walinetest-sage.vercel.app',
       lang: 'en',
-      emoji: [
-      'https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',
-    ],
+      emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
     });
   </script>
 </body>
