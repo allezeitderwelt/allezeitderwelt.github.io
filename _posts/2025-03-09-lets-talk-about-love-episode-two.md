@@ -66,3 +66,41 @@ kind。这次约出来的对象是我刷了几天dating app之后唯一一个感
 摘要里的英文来自Fleabag S2E6。
 
 什么时候能再在生命里见到瑞秋。  
+
+--- 
+
+<head>
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+      el: '#waline',
+      serverURL: 'https://walinetest-sage.vercel.app',
+      lang: 'en',
+      locale: { 
+  nick: 'Nickname',
+  mail: 'E-Mail (optional)',
+  link: 'Website (optional)',
+  placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
+  },
+      emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
+    });
+
+  </script>
+
+    <style>
+      :root {
+        /* 主题色 */
+        --waline-theme-color: #7a629d;
+        }
+    </style>
+</body>
