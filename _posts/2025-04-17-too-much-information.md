@@ -1,7 +1,6 @@
 ---
 title: You have too much information in your head
-tags: real_world CN
-comments: true
+tags: 真实的世界 CN
 ---
 Validation很好，但是我不想过为了validation而奋斗的人生。
 
