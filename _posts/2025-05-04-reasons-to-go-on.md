@@ -1,7 +1,6 @@
 ---
 title: 想要继续的理由
 tags: 爱的教育 CN
-comments: true
 ---
 
 放轻松一点。
@@ -46,3 +45,41 @@ comments: true
 © allezeitderwelt
 
 居然忘了，四月十九号是你的生日，生日快乐瑞秋。
+
+--- 
+
+<head>
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+      el: '#waline',
+      serverURL: 'https://walinetest-sage.vercel.app',
+      lang: 'en',
+      locale: { 
+  nick: 'Nickname',
+  mail: 'E-Mail (optional)',
+  link: 'Website (optional)',
+  placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
+  },
+      emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
+    });
+
+  </script>
+
+    <style>
+      :root {
+        /* 主题色 */
+        --waline-theme-color: #7a629d;
+        }
+    </style>
+</body>
