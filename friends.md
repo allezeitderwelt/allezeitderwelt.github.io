@@ -50,5 +50,13 @@ comments: true
   },
       emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
     });
+
   </script>
+
+    <style>
+      :root {
+        /* 主题色 */
+        --waline-theme-color: #7a629d;
+        }
+    </style>
 </body>
