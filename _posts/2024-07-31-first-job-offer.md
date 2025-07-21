@@ -75,3 +75,41 @@ Other Part-time Jobs
 
 ---
 © allezeitderwelt
+
+--- 
+
+<head>
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+  />
+</head>
+<body>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+      el: '#waline',
+      serverURL: 'https://walinetest-sage.vercel.app',
+      lang: 'en',
+      locale: { 
+  nick: 'Nickname',
+  mail: 'E-Mail (optional)',
+  link: 'Website (optional)',
+  placeholder: 'Tell me what you think :) To comment you do not need to sign into anything.',
+  },
+      emoji: ['https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',],
+    });
+
+  </script>
+
+    <style>
+      :root {
+        /* 主题色 */
+        --waline-theme-color: #7a629d;
+        }
+    </style>
+</body>
