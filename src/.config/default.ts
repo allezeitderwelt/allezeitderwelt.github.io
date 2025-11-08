@@ -24,7 +24,7 @@ export const defaultConfig: ThemeConfig = {
     navLinks: [
       {
         name: 'Posts',
-        href: '/posts/page/1',
+        href: '/',
       },
       {
         name: 'Archive',
@@ -48,7 +48,7 @@ export const defaultConfig: ThemeConfig = {
   },
   appearance: {
     theme: 'system',
-    locale: 'en-en',
+    locale: 'zh-cn',
     colorsLight: {
       primary: '#6a538c',
       background: '#ffffff',
