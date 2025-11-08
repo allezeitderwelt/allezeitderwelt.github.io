@@ -13,6 +13,10 @@ export const defaultConfig: ThemeConfig = {
     pageSize: 8,
     socialLinks: [
       {
+      name: "rss",
+      href: "/atom.xml",
+      },
+      {
         name: 'mastodon',
         href: 'https://mastodon.social/@onceinadecade',
       },
@@ -20,7 +24,7 @@ export const defaultConfig: ThemeConfig = {
     navLinks: [
       {
         name: 'Posts',
-        href: '/',
+        href: '/posts/page/1',
       },
       {
         name: 'Archive',
@@ -44,7 +48,7 @@ export const defaultConfig: ThemeConfig = {
   },
   appearance: {
     theme: 'system',
-    locale: 'zh-cn',
+    locale: 'en-en',
     colorsLight: {
       primary: '#2e405b',
       background: '#ffffff',
