@@ -5,28 +5,16 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '活版印字',
-    subtitle: 'Typography',
-    author: 'Moeyua',
+    title: '世界上所有的时间',
+    subtitle: 'alle zeit der welt',
+    author: 'Lin',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
-    pageSize: 5,
+    website: 'https://allezeitderwelt.github.io/',
+    pageSize: 8,
     socialLinks: [
       {
-        name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
-      },
-      {
-        name: 'rss',
-        href: '/atom.xml',
-      },
-      {
-        name: 'twitter',
-        href: 'https://github.com/moeyua/astro-theme-typography',
-      },
-      {
         name: 'mastodon',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://mastodon.social/@onceinadecade',
       },
     ],
     navLinks: [
