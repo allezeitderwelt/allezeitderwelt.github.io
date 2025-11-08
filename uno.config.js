@@ -26,7 +26,7 @@ const cssExtend = {
     'word-wrap': 'break-word',
     'padding': '2px 4px',
     'color': '#c7254e',
-    'font-size': '90%',
+    'font-size': '80%',
     'background-color': '#f9f2f4',
     'border-radius': '4px',
   },
