@@ -16,7 +16,29 @@ const cssExtend = {
   ':root': {
     '--prose-borders': '#eee',
   },
+  
+// 修改正文排版
+  '.prose': {
+    'color': '#333333',          // 文字颜色
+    'font-family': '"Noto Serif", serif',  // 字体
+    'line-height': '1.8',        // 行距
+    'font-size': '1.05rem',      // 基础字体大小
+  },
 
+  '.prose p': {
+    'margin-bottom': '1.2em',    // 段落间距
+  },
+
+  '.prose strong': {
+    'color': '#222',             // 加粗字体颜色
+  },
+
+  '.prose a': {
+    'color': '#0070f3',
+    'text-decoration': 'underline',
+  },
+
+  // 你原本的内容（保留）
   'code::before,code::after': {
     content: 'none',
   },
