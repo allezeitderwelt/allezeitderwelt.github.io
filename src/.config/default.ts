@@ -50,7 +50,8 @@ export const defaultConfig: ThemeConfig = {
     theme: 'system',
     locale: 'zh-cn',
     colorsLight: {
-      primary: '#6a538c',
+      primary: '#2e405b',
+      // primary: '#6a538c',
       background: '#ffffff',
     },
     colorsDark: {
