@@ -35,6 +35,10 @@ export const defaultConfig: ThemeConfig = {
         href: '/categories',
       },
       {
+      name: "Friends",
+      href: "/friends",
+    },
+      {
         name: 'About',
         href: '/about',
       },
