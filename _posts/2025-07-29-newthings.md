@@ -25,8 +25,8 @@ tags:
 刚认识G的时候他和我说他会钩针和折纸，当时就觉得这个人和一般的男的不太一样。加上一直有在别的blog里面看网上邻居们在打毛线和钩来钩去，当下就去店里去看，想立刻买一些回来试。但是店里的毛线还有针织工具的选择实在太多了，根本不知道该怎么挑，想问店员但是都不知道该问什么问题！（比如针织和钩针对应的德语是什么= =）于是灰溜溜回去乖乖看教程，学习什么是新手友好的工具，然后试错了几次，才买到了比较适合我的紧实，粗细适中的毛线。跟着教程学了一天之后，渐渐开始可以钩出平面。
 
 <br>
-<img src="https://raw.githubusercontent.com/allezeitderwelt/allezeitderwelt.github.io/main/assets/images/crochet.png" alt="crochet" width="500"/>
-<br><br>
+<img src="https://raw.githubusercontent.com/allezeitderwelt/allezeitderwelt.github.io/master/assets/images/crochet.png" alt="crochet" width="500"/>
+
 
 但是这个时候天气已经热起来了，不仅不想再摸毛线，连看都不想看！希望到了降温的时候可以再把这个项目捡起来，目标是能打出一条长长细细的时尚围巾，有拼接感没关系，可以骄傲地告诉别人这是我自己打的独一无二的围巾～
 
