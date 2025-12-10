@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8b85a173da174d",
+        "id": "09c866579a2a6719",
         "type": "tabs",
         "children": [
           {
-            "id": "1e65c959bbc4f344",
+            "id": "0a0f39454c47393a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-12-14-secondhand.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-14-secondhand"
+              "title": "New tab"
             }
           }
         ]
@@ -183,15 +179,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e65c959bbc4f344",
+  "active": "0a0f39454c47393a",
   "lastOpenFiles": [
+    "2025-12-14-secondhand.md",
     "2025-07-29-newthings.md",
     "2025-06-02-may-log.md",
     "2025-02-11-on-the-edge-of-break-up.md",
     "2025-06-30-june-log.md",
     "2025-07-21-where-is-the-answer.md",
     "2025-09-13-responsibility.md",
-    "2025-12-14-secondhand.md",
     "2024-02-29-deutsch-lernen-for-two-years.md",
     "2024-07-31-first-job-offer.md",
     "2024-12-28-wrap-2024-1.md",
