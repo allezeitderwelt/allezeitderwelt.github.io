@@ -1,6 +1,7 @@
 ---
 title: 我和我的写作 | Me and my writing
-tags: 我是来玩的 CN
+tags:
+  - 我是来玩的
 ---
 也不是一拍脑门想到要写博客的。
 

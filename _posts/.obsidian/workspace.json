@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45e0df3ca844a8f4",
+        "id": "2c8b85a173da174d",
         "type": "tabs",
         "children": [
           {
-            "id": "1713d8d56f5f053a",
+            "id": "1e65c959bbc4f344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-21-where-is-the-answer.md",
+                "file": "2025-07-29-newthings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-21-where-is-the-answer"
+              "title": "2025-07-29-newthings"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:monthly CN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,9 +183,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "1713d8d56f5f053a",
+  "active": "1e65c959bbc4f344",
   "lastOpenFiles": [
+    "2025-09-13-responsibility.md",
+    "2025-12-14-secondhand.md",
+    "2024-02-29-deutsch-lernen-for-two-years.md",
+    "2024-07-31-first-job-offer.md",
+    "2024-12-28-wrap-2024-1.md",
+    "2024-12-28-wrap-2024-2.md",
+    "2025-01-13-womens-child.md",
+    "2025-01-14-davenzi-omg.md",
+    "2025-01-15-she-passed-away.md",
+    "2025-01-23-me-and-my-writing.md",
+    "2025-01-24-imperfect-story.md",
+    "2025-02-11-on-the-edge-of-break-up.md",
+    "2025-03-03-lets-talk-about-love-episode-one.md",
+    "2025-03-09-lets-talk-about-love-episode-two.md",
+    "2025-04-17-too-much-information.md",
+    "2025-05-04-reasons-to-go-on.md",
+    "2025-06-02-may-log.md",
+    "2025-06-30-june-log.md",
+    "2025-07-21-where-is-the-answer.md",
     "2025-07-29-newthings.md",
-    "2025-09-13-responsibility.md"
+    "Untitled.base"
   ]
 }

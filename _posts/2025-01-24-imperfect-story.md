@@ -1,6 +1,7 @@
 ---
 title: 不完全幸福的故事 | The one who is not perfectly happy
-tags: 爱的教育 CN
+tags:
+  - 爱的教育
 comments: true
 ---
 if we don't laugh about it, what else can we do?

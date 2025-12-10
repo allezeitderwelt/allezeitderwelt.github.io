@@ -1,6 +1,7 @@
 ---
 title: why are davenzi fanfics so good?? (i am so sorry)
-tags: 搞同人 EN
+tags:
+  - 搞同人
 ---
 
 You really don't need to read this but you really need to read [*mad as the sea and wind*](https://archiveofourown.org/works/18507484/chapters/43859389).

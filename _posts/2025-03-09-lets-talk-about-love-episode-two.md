@@ -1,6 +1,7 @@
 ---
 title: 谈了三年恋爱总算有资格谈谈爱了吧（二）
-tags: 爱的教育 CN
+tags:
+  - 爱的教育
 comments: true
 ---
 "It takes strength to know what is right, and love isn't something weak people do."   

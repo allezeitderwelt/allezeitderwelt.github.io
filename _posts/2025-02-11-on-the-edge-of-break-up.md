@@ -1,6 +1,7 @@
 ---
 title: 爱是会消失的对不对
-tags: 爱的教育 CN
+tags:
+  - 爱的教育
 ---
 分手前夕。 
 In this uncontainable night.
