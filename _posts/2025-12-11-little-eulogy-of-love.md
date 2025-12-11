@@ -1,5 +1,5 @@
 ---
-titles: 爱的小小墓碑
+title: 爱的小小墓碑
 tags:
   - eulogy
 ---
