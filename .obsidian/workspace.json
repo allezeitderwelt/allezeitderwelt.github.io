@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64a7d612547d2ed4",
+        "id": "842a301ac75801f7",
         "type": "tabs",
         "children": [
           {
-            "id": "567f63fb2f82d300",
+            "id": "2832c271191de8f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-31-Wrapping-up-2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-31-Wrapping-up-2026"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "567f63fb2f82d300",
+  "active": "2832c271191de8f5",
   "lastOpenFiles": [
-    "_posts/2025-12-11-little-eulogy-of-love.md",
     "_posts/2025-12-31-Wrapping-up-2026.md",
+    "_posts/2025-12-11-little-eulogy-of-love.md",
     "_posts/2024-02-29-deutsch-lernen-for-two-years.md",
     "_posts/2025-07-29-newthings.md",
     "_posts/2025-07-21-where-is-the-answer.md",
