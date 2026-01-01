@@ -11,10 +11,14 @@
             "id": "2832c271191de8f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-31-Wrapping-up-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-12-31-Wrapping-up-2025"
             }
           }
         ]
@@ -181,7 +185,7 @@
   },
   "active": "2832c271191de8f5",
   "lastOpenFiles": [
-    "_posts/2025-12-31-Wrapping-up-2026.md",
+    "_posts/2025-12-31-Wrapping-up-2025.md",
     "_posts/2025-12-11-little-eulogy-of-love.md",
     "_posts/2024-02-29-deutsch-lernen-for-two-years.md",
     "_posts/2025-07-29-newthings.md",
